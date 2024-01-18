@@ -22,11 +22,17 @@ Chương trình máy tính sẽ hỗ trợ:
 
 # Tài liệu tham khảo
 [1]	Herbert Schildt , Tài liệu hướng dẫn Java cơ bản, McGraw-Hill Education , 2020.
+
 [2]	Herbert Schildt , Java: The Complete Reference, Eleventh Edition, McGraw-Hill Education, 2018.
+
 [3]	Kathy Sierra, Bert Bates , Head First Java, Second Edition, O'Reilly Media, 2005.
+
 [4]	Paul Deitel Harvey Deitel, Java How to Program, Early Objects, Eleventh Edition., Pearson, 2017.
+
 [5]	Allen B. Downey, Think Java: How to Think Like a Computer Scientist. Allen B. Downey, Chris Mayfield, O'Reilly Media, 2016.
+
 [6]	Joshua Bloch, Effective Java, Third Edition, Addison-Wesley Professional, 2018.
+
 # Liên hệ
 Emal:minhthai1502003@gmail.com
 Số điện thoại: 0899310244
