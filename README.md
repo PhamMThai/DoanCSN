@@ -3,7 +3,7 @@ Viết chương trình máy tính bằng Java
 # Giới thiệu tổng quan
 Tôi chọn đề tài “Viết chương trình máy tính bằng Java “ là vì hiện nay máy tính là một công cụ quan trọng trong công việc hàng ngày của chúng ta.
 Đồ án này tập trung vào việc phát triển một chương trình máy tính đơn giản nhưng linh hoạt bằng ngôn ngữ lập trình Java để cung cấp một trải nghiệm tính toán thuận lợi cho người dùng.
-	Nội dung.
+Nội dung.
 Chương trình máy tính sẽ hỗ trợ:
 - Các phép toán cơ bản (+, -, *, /).
 -Tính căn bậc hai của một số.
