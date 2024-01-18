@@ -5,9 +5,13 @@ Tôi chọn đề tài “Viết chương trình máy tính bằng Java “ là 
 Đồ án này tập trung vào việc phát triển một chương trình máy tính đơn giản nhưng linh hoạt bằng ngôn ngữ lập trình Java để cung cấp một trải nghiệm tính toán thuận lợi cho người dùng.
 Nội dung.
 Chương trình máy tính sẽ hỗ trợ:
+
 - Các phép toán cơ bản (+, -, *, /).
+  
 -Tính căn bậc hai của một số.
+
 -Tính phần trăm của một số.
+
 -Chuyển đổi số dương thành số âm và ngược lại.
 -Giao diện người dùng đẹp và dễ sử dụng.
 -Hiệu suất cao với thời gian đáp ứng nhanh chóng.
